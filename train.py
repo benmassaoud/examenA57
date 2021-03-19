@@ -242,7 +242,7 @@ import mlflow.sklearn
 
 
 mlflow.set_experiment(experiment_name='Sami')
-mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_tracking_uri("http://benmassaoud:5000")
 
 
 # In[29]:
