@@ -1,0 +1,3 @@
+recall score du modele Naive Bayes predit: 0.0
+F1 score du modele Naive Bayes predit: 0.0
+Accuracy du modele Naive Bayes predit: 0.5

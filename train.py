@@ -241,7 +241,7 @@ import mlflow.sklearn
 # In[28]:
 
 
-mlflow.set_experiment(experiment_name='Examen_A57')
+#mlflow.set_experiment(experiment_name='Examen_A57')
 mlflow.set_tracking_uri("http://benmassaoud.com:5000")
 
 
